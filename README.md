@@ -1,1 +1,2 @@
-# Competitive-Programmer-s-Handbook
+Competitive Programmer’s Handbook
+Antti Laaksonen
